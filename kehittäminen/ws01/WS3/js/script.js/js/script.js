@@ -6,7 +6,7 @@ const table = `
     <table class="display">
         <thead>
             <tr>
-                <th>Animal</th>
+                <th>Animal123</th>
                 <th>Habitat</th>
                 <th>Diet</th>
             </tr>
